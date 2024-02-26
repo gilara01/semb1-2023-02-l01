@@ -8,7 +8,7 @@ o código de inicialização é responsável por preparar o ambiente de execuç�
 ## 3. Sobre o utilitário **make** e o arquivo **Makefile responda**:
 
 #### (a) Explique com suas palavras o que é e para que serve o **Makefile**.
-
+Um Makefile é um arquivo de texto especial usado em sistemas Linux para automatizar o processo de compilação e construção de software.
 #### (b) Descreva brevemente o processo realizado pelo utilitário **make** para compilar um programa.
 
 #### (c) Qual é a sintaxe utilizada para criar um novo **target**?
