@@ -4,7 +4,7 @@
  É o processo de compilar código-fonte em um sistema de desenvolvimento diferente daquele onde o código será executado.
  A compilação cruzada é importante porque permite que os desenvolvedores criem software para sistemas embarcados sem a necessidade de configurar um ambiente de desenvolvimento complexo diretamente no hardware de destino.
 ## 2. O que é um código de inicialização ou ***startup*** e qual sua finalidade?
-
+o código de inicialização é responsável por preparar o ambiente de execução do sistema embarcado, configurando o hardware, estabelecendo configurações de sistema e inicializando a memória, para que o software principal possa ser executado corretamente.
 ## 3. Sobre o utilitário **make** e o arquivo **Makefile responda**:
 
 #### (a) Explique com suas palavras o que é e para que serve o **Makefile**.
